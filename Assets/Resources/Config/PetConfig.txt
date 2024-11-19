@@ -1,0 +1,5 @@
+ID	Name	Type	Des	Icon	Model	Effects	Animation	
+唯一标识	名称	类型	描述	图标资源的路径	模型资源的路径	特效	动作	
+10000	小火龙	火系	一种小型的火系宠物，能喷出小火球	/Assets/Icons/小火龙.png	/Assets/Models/小火龙.prefab	/Assets/Effects/小火龙特效.prefab	/Assets/Animations/小火龙动作.anim	
+10001	水蓝蓝	水系	温和的水系宠物，能治愈队友	/Assets/Icons/水蓝蓝.png	/Assets/Models/水蓝蓝.prefab	/Assets/Effects/水蓝蓝特效.prefab	/Assets/Animations/水蓝蓝动作.anim	
+10002	雷光鼠	电系	敏捷的电系宠物，能释放闪电攻击	/Assets/Icons/雷光鼠.png	/Assets/Models/雷光鼠.prefab	/Assets/Effects/雷光鼠特效.prefab	/Assets/Animations/雷光鼠动作.anim	

@@ -1,0 +1,5 @@
+ID	Name	Type	Des	Icon	Model	Effects	Animation	
+唯一标识	名称	类型	描述	图标资源的路径	模型资源的路径	特效	动作	
+10000	火焰球	技能	发射一个火焰球对敌人造成火焰伤害	/Assets/Icons/Fireball.png	/Assets/Models/Fireball.prefab	/Assets/Effects/FireballEffect.prefab	/Assets/Animations/FireballAnimation.anim	
+10001	冰霜护盾	防御	生成一个冰霜护盾减少受到的物理伤害	/Assets/Icons/IceShield.png	/Assets/Models/IceShield.prefab	/Assets/Effects/IceShieldEffect.prefab	/Assets/Animations/IceShieldAnimation.anim	
+10002	闪电链	攻击	释放一道闪电链，对多个敌人造成连锁电击	/Assets/Icons/LightningBolt.png	/Assets/Models/LightningBolt.prefab	/Assets/Effects/LightningChainEffect.prefab	/Assets/Animations/LightningChainAnimation.anim	
